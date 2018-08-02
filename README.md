@@ -7,7 +7,7 @@
 
 * Further, Scrum is an extendable framework which also could be nicely scale up to address/manage Portfolios and programs in larger organisations. 
 
-> > I gladly shared documents and also a free certification course (scrum fundamentals certified) [link](https://www.scrumstudy.com) which allow anyone (newbies or with prior experience) who is willing to get a closer look at the framework and to learn at his own pace in a flexible way.
+> > I gladly shared documents and also a free certification course (scrum fundamentals certified) [link](https://www.scrumstudy.com) which allow anyone (newbie or with prior experience) who is willing to get a closer look at the framework and to learn at his own pace in a flexible way.
 
 
 Enjoy the ride!
